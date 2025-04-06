@@ -18,7 +18,7 @@ jobs:
       uses: classroom-resources/autograding-io-grader@v1
       with:
         test-name: Quiz 1
-        setup-command: ''
+        setup-command: " "
         command: Which of the following best describes software engineering?
         input: |-
           a) The study of hardware components
