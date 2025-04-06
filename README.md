@@ -13,11 +13,11 @@ Software engineering is a technical discipline within computer science focused o
 
 ## Identify and describe at least three key milestones in the evolution of software engineering.
 
-- 1968 NATO Conference-
+1968 NATO Conference-
 The term "software engineering" was formally introduced, highlighting the need for systematic, disciplined approaches to counter the "software crisis" of unreliable and over-budget projects.
-- 1980s–1990s: Object-Oriented Programming (OOP)-
+1980s–1990s: Object-Oriented Programming (OOP)-
 Languages like C++ and Java popularized OOP, revolutionizing code organization through modular, reusable components (classes/objects), improving maintainability and scalability.
-- 2001 Agile Manifesto- 
+2001 Agile Manifesto- 
 Prioritized iterative development, collaboration, and adaptability over rigid plans, reshaping workflows with frameworks like Scrum and Kanban to meet changing user needs.
 
 ## List and briefly explain the phases of the Software Development Life Cycle.
