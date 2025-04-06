@@ -18,7 +18,7 @@ The term "software engineering" was formally introduced, highlighting the need f
 1980s–1990s: Object-Oriented Programming (OOP)-
 Languages like C++ and Java popularized OOP, revolutionizing code organization through modular, reusable components (classes/objects), improving maintainability and scalability.
 2001 Agile Manifesto- 
-Prioritized iterative development, collaboration, and adaptability over rigid plans, reshaping workflows with frameworks like Scrum and Kanban to meet changing user needs.
+Prioritized the iterative development, collaboration, and adaptability over rigid plans, reshaping workflows with frameworks like Scrum and Kanban to meet changing user needs.
 
 ## List and briefly explain the phases of the Software Development Life Cycle.
 The software dev life cycle is a cycle of structured processes that is used to design, develop and maintain high quality software. It typically consists of the seven major phases, each of which take a look at a specific critical aspect of the whole process, ensuring efficiency and longevity of the outcome of the processes. 
