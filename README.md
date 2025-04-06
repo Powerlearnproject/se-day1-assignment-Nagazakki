@@ -6,10 +6,10 @@ Software Engineering Day1 Assignment
 ## Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is a technical discipline within computer science focused on designing, implementing, evaluating, and managing software systems. Core principles include:
--Reliability: Guaranteeing consistent, error-free performance in high-stakes domains like healthcare and finance.
--Efficiency: Streamlining development processes to balance speed with robust quality control.
--Scalability & Flexibility: Building systems that adapt seamlessly to growing demands without compromising functionality.
--Security: Safeguarding data through protocols like encryption, access controls, and vulnerability assessments.
+Reliability: Guaranteeing consistent, error-free performance in high-stakes domains like healthcare and finance.
+Efficiency: Streamlining development processes to balance speed with robust quality control.
+Scalability & Flexibility: Building systems that adapt seamlessly to growing demands without compromising functionality.
+Security: Safeguarding data through protocols like encryption, access controls, and vulnerability assessments.
 
 ## Identify and describe at least three key milestones in the evolution of software engineering.
 
