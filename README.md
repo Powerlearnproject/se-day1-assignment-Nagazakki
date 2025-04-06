@@ -23,13 +23,7 @@ Prioritized iterative development, collaboration, and adaptability over rigid pl
 ## List and briefly explain the phases of the Software Development Life Cycle.
 The software dev life cycle is a cycle of structured processes that is used to design, develop and maintain high quality software. It typically consists of the seven major phases, each of which take a look at a specific critical aspect of the whole process, ensuring efficiency and longevity of the outcome of the processes. 
 These stages are as follows - 
-Planning
-Analysis of requirements
-System design
-Implementation and development
-Testing
-Deployment
-Maintenance
+Planning, Analysis of requirements, System design, Implementation and development, Testing, Deployment & Maintenance.
 
 ## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Agile and Waterfall are two distinct software development methodologies. Agile is iterative and flexible, allowing for continuous improvement and adaptation, making it suitable for projects with changing requirements, such as tech startups or e-commerce redesigns. In contrast, Waterfall follows a linear approach with extensive upfront planning, making it more appropriate for projects with fixed requirements and strict deadlines, like government software or construction projects. Agile emphasizes customer feedback and incremental delivery, while Waterfall focuses on delivering a complete product at the end. The choice between them depends on project complexity and stakeholder needs.
