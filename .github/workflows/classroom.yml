@@ -20,7 +20,7 @@ jobs:
           test-name: Quiz 1
           setup-command: " "
           command: echo "Which of the following best describes software engineering?" && echo "b) The process of designing, developing, and maintaining software"
-          input: |-
+          input: |- b
             a) The study of hardware components
             b) The process of designing, developing, and maintaining software
             c) The analysis of networking protocols
